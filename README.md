@@ -1,3 +1,1 @@
-<marquee style="color: green; font-size: 30px;">
-    এখানে ২৪ ঘণ্টা আর্টিফিসিয়াল ইন্টেলিজেন্ট বা Ai এর মাধ্যমে সোস্যাল মিডিয়া লাইক ফলোয়ার দেওয়া হয়।
-</marquee>
+<marquee behavior="scroll" direction="left">এই লেখা বামে স্ক্রল করবে!</marquee>
